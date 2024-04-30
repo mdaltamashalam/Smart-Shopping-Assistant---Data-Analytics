@@ -20,13 +20,13 @@ Moreover, the project incorporates advanced analytics techniques, such as custom
 
 ![download (1)](https://github.com/mdaltamashalam/Smart-Shopping-Assistant---Data-Analytics/assets/115888774/e63fa74f-c72d-43b2-9462-83b79ff6fee4)
 
+Trends Analysis
+![download](https://github.com/mdaltamashalam/Smart-Shopping-Assistant---Data-Analytics/assets/115888774/2e0eb341-0fa2-4c1e-9b3f-847a71d90c91)
+
 Copyright Notice for "Smart Shopping Assistant Project"
 
-All content, including text, graphics, and any other material, presented in the above project description is the exclusive intellectual property of [Your Company Name]. This content is protected by copyright law and may not be reproduced, distributed, transmitted, displayed, or otherwise used without the express written consent of [Your Company Name]. Unauthorized use or reproduction of this content may result in legal action. For inquiries regarding the use of this content, please contact [Your Company Name] at [contact@email.com].
+All content, including text, graphics, and any other material, presented in the above project description is the exclusive intellectual property of [Your Company Name]. This content is protected by copyright law and may not be reproduced, distributed, transmitted, displayed, or otherwise used without the express written consent of [Your Company Name]. Unauthorized use or reproduction of this content may result in legal action.
 
 
 
-
-
-![download](https://github.com/mdaltamashalam/Smart-Shopping-Assistant---Data-Analytics/assets/115888774/2e0eb341-0fa2-4c1e-9b3f-847a71d90c91)
 
